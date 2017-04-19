@@ -11,6 +11,6 @@ A Show consist of a Screen and a Timeslot. A User can Book a ticket for any Movi
 <br />
 An Admin can Insert Movie, Schedule a Movie in a particular Screen and in particular Timeslot and can delete a Movie.
 <br/>
-After Booking the user is shown the Total Amount of the tickets also he is given the option to Order a Meal. If he orders the Meal he is shown the Total amount i.e, Tickets + Food.
+After Booking the user is shown the Total Amount of the tickets also he is given the option to Order a Meal. If the User orders the Meal User is shown the Total amount i.e, Tickets + Food.
 <br />
 It is a Project based on Object Oriented Concepts. Interfaces, Inheritence, JDBC, Servlets, JSP Concepts of Java are used. MySQL is used for Database.

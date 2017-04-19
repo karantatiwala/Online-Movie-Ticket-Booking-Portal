@@ -1,5 +1,5 @@
 # Online-Movie-Ticket-Booking-Portal
-### Java Project - Servlets, JSP, HTML. MySQL
+### Java Project - Servlets, JSP, HTML, MySQL
 <br />
 A Web App for Online Booking of Movie Tickets. Consist of Modules: <br />
 Theatre <br />

@@ -6,7 +6,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
 <head>
-  <title>Bootstrap Example</title>
+  <title>LNM Talkies</title>
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,7 +19,7 @@
 <nav class="navbar navbar-inverse" style="margin-bottom:0px;">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#" style="font-size: 40px;"><b>LNM Theatres</b></a>
+      <a class="navbar-brand" href="user.jsp" style="font-size: 40px;"><b>LNM Talkies</b></a>
     </div>
     <ul class="nav navbar-nav navbar-right">
       <!-- <li><a href="#"><span class="glyphicon glyphicon-user"></span> Admin</a></li> -->
@@ -75,19 +75,19 @@
     <div class="item active">
       <img src="images/mo3.jpg" alt="..." style="width:800px; height:500px;">
       <div class="carousel-caption">
-        Movie 1
+        <b>Movie 1</b>
       </div>
     </div>
     <div class="item">
       <img src="images/mo2.jpg" alt="..." style="width:800px;height:500px;">
       <div class="carousel-caption">
-        Movie 2
+       <b>Movie 2</b>
       </div>
     </div>
     <div class="item">
       <img src="images/mo1.jpg" alt="..." style="width:800px;height:500px;">
       <div class="carousel-caption">
-      Movie 3
+      <b>Movie 3</b>
       </div>
     </div>
   </div>
